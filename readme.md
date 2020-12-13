@@ -1,5 +1,6 @@
 ## SafeBoda PHP Challenge
 
+## Requirement
 SafeBoda wants to give out promo codes worth x amount during events so people can get free rides to and from the event. The flaw with that is people can use the promo codes without going to the event.
 Task: Implement a Promo code API with the following features.
 
