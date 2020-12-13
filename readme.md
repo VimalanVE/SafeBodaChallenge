@@ -14,3 +14,9 @@ Task: Implement a Promo code API with the following features.
     • The promo code radius should be configurable
     • To test the validity of the promo code, expose an endpoint that accepts origin,destination, the promo code.
     • The API should return the promo code details and a polyline using the destination and origin if the promo code is valid and an error otherwise.
+
+## Output
+1) Code Base of this Online Challenge is uploaded in Github Repository and the link mentioned below
+    https://github.com/VimalanVE/SafeBodaChallenge
+2) API Collection of this Online Challenge is Published and the link mentioned below
+    https://documenter.getpostman.com/view/13792073/TVsoGVX6
